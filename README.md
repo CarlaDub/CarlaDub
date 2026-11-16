@@ -32,6 +32,15 @@ cybersécurité et intelligence artificielle.
 
 ## 🚀 Mes projets
 
+### 🎨 Craftea
+
+Application iOS dédiée aux loisirs créatifs.
+
+- Swift et SwiftUI
+- Design avec Figma
+- Accessibilité
+- Inscription et connexion
+
 ### 🍽️ CoF-Ivoire
 
 Site web de restaurant franco-ivoirien.
@@ -50,15 +59,6 @@ Site e-commerce de cookies artisanaux.
 - Panier interactif
 - Design fuchsia et vert
 - Compatible ordinateur et téléphone
-
-### 🎨 Craftea
-
-Application iOS dédiée aux loisirs créatifs.
-
-- Swift et SwiftUI
-- Design avec Figma
-- Accessibilité
-- Inscription et connexion
 
 ### 💼 Mon Portfolio
 
