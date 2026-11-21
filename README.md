@@ -32,24 +32,30 @@ cybersécurité et intelligence artificielle.
 
 ## 🚀 Mes projets
 
-### 🎨 Craftea
+### 🎨 Craftea — Application iOS
 
-Application iOS dédiée aux loisirs créatifs.
+Application mobile dédiée aux loisirs créatifs, développée avec **Swift et SwiftUI**.
 
-- Swift et SwiftUI
-- Design avec Figma
-- Accessibilité
-- Inscription et connexion
+- 📱 Développement iOS avec SwiftUI
+- 🎨 Design et prototypage avec Figma
+- 🔐 Inscription et connexion
+- ♿ Accessibilité numérique
+- 💡 Découverte des loisirs créatifs
 
-### 🍽️ CoF-Ivoire
+🔗 **GitHub :** [Voir le projet Craftea](https://github.com/CarlaDub/Craftea)
 
-Site web de restaurant franco-ivoirien.
+### 🇨🇮🇫🇷 Co-Ivoire — Application iOS
 
-- HTML, CSS et JavaScript
-- Menu interactif
-- Panier
-- Inscription et connexion
-- Design responsive
+Application mobile de restaurant franco-ivoirien, développée avec **Swift et SwiftUI**.
+
+- 📱 Développement iOS avec SwiftUI
+- 🏠 Page d'accueil
+- 🔐 Inscription et connexion
+- 🍽️ Consultation du menu
+- 🛒 Panier et paiement
+- 🎨 Interface inspirée des cultures française et ivoirienne
+
+🔗 **GitHub :** [Voir le projet Co-Ivoire](https://github.com/CarlaDub/Co-Ivoire)
 
 ### 🍪 Cookies C.Oworking
 
